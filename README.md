@@ -1,16 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=180&section=header&text=&fontSize=0" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=70&lines=%24+whoami;Finn7X+%E2%80%94+AI+Agent+Engineer+%F0%9F%A4%96)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&customColorList=14&height=200&section=header&text=Finn7X&fontSize=70&fontColor=58a6ff&animation=fadeIn&desc=AI%20Agent%20Engineer&descSize=18&descColor=8b949e&descAlignY=72" width="100%" />
 
 </div>
 
 ```python
-class Finn7X:
+class Finn:
     """An engineer who teaches machines to think, search, and remember."""
 
-    name     = "许计峰 (Jifeng Xu)"
     location = "Nanjing, China"
     focus    = ["Agent Orchestration", "Agentic RAG", "Memory Systems", "LLM Evaluation"]
     motto    = "Ship it, measure it, make it smarter."

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&customColorList=14&height=200&section=header&text=Finn7X&fontSize=70&fontColor=58a6ff&animation=fadeIn&desc=AI%20Agent%20Engineer&descSize=18&descColor=8b949e&descAlignY=72" width="100%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Finn7X;AI+Agent+Engineer+%F0%9F%A4%96;Ship+it%2C+measure+it%2C+make+it+smarter.)](https://git.io/typing-svg)
 
 </div>
 
@@ -54,10 +54,10 @@ Pomodoro timer iOS app in Swift.
 
 ### GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Finn7X&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finn7X&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Finn7X&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Finn7X&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Finn7X&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img width="75%" src="https://streak-stats.demolab.com/?user=Finn7X&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
@@ -76,5 +76,3 @@ Pomodoro timer iOS app in Swift.
 <sub>*"The best agent is the one that knows when to stop searching and start answering."*</sub>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=footer" />

@@ -10,85 +10,42 @@
 class Finn7X:
     """An engineer who teaches machines to think, search, and remember."""
 
-    name       = "许计峰 (Jifeng Xu)"
-    location   = "Nanjing, China"
-    education  = "B.E. Automation — NJUST '21"
-
-    currently_building = [
-        "🤖 Agent Runtime — orchestration, skill mechanism, middleware pipeline",
-        "🔍 Agentic RAG — multi-turn deep retrieval with dynamic query planning",
-        "🧠 Memory System — user profiling, episodic memory, cross-agent sharing",
-        "📊 LLM-as-Judge — automated eval pipelines from production conversations",
-    ]
-
-    fun_facts = {
-        "prev_life": "Built electric racing cars before building AI agents",
-        "achievement": "🏆 1st place — China FSAE Electric Efficiency Race",
-        "motto": "Ship it, measure it, make it smarter.",
-    }
+    name     = "许计峰 (Jifeng Xu)"
+    location = "Nanjing, China"
+    focus    = ["Agent Orchestration", "Agentic RAG", "Memory Systems", "LLM Evaluation"]
+    motto    = "Ship it, measure it, make it smarter."
 ```
 
 <br>
 
-<div align="center">
-
-### Tech Arsenal
-
-**AI & Agent**
-
-`LangGraph` `RAG` `Langfuse` `vLLM` `SGLang` `Embedding/Reranking` `Prompt Engineering`
-
-**Full-Stack**
-
-[![Skills](https://skillicons.dev/icons?i=python,typescript,react,nextjs,angular,django,nodejs&theme=dark)](https://skillicons.dev)
-
-**Infrastructure**
-
-[![Skills](https://skillicons.dev/icons?i=docker,postgres,elasticsearch,linux,git,github&theme=dark)](https://skillicons.dev)
-
-**& Also**
-
-[![Skills](https://skillicons.dev/icons?i=swift&theme=dark)](https://skillicons.dev)
-
-</div>
-
-<br>
-
-## What I Build
+## Open Source
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Agent Framework
-Enterprise Agent runtime for IM-based customer service bots. Serving **10,000+ users** across product lines with **96% accuracy**.
-
-> Pluggable middleware pipeline · Skill mechanism · Sub-agent delegation · Multi-layer memory · Agentic RAG deep retrieval · LLM-as-Judge evaluation
+### ✍️ [finn-dsys](https://github.com/Finn7X/finn-dsys)
+Bilingual tech blog (CN/EN) built with Next.js 16 + React 19 + MDX.
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Knowledge Base Platform
-Full-stack platform powering **20+ Agents** with **800K+ docs**. Multimodal document processing, hybrid retrieval with reranking, and self-hosted model inference.
-
-> Vision-based PDF/PPT understanding · Structured HTML extraction · Query-driven multi-strategy retrieval · Two-level index routing
+### 🎨 [lumi-draw](https://github.com/Finn7X/lumi-draw)
+Creative drawing tool built with Python.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ✍️ [finn-dsys](https://github.com/Finn7X/finn-dsys)
-Bilingual tech blog — Chinese & English, independently authored. Built with Next.js 16 + React 19 + MDX. Shiki syntax highlighting, OG image generation, Docker CI/CD.
+### 🔍 [deep-search](https://github.com/Finn7X/deep-search)
+Deep search engine in Python.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 More on GitHub
-[**deep-search**](https://github.com/Finn7X/deep-search) — Deep search engine in Python
-[**lumi-draw**](https://github.com/Finn7X/lumi-draw) — Creative drawing tool
-[**tomato-schedule**](https://github.com/Finn7X/tomato-schedule) — Pomodoro timer (Swift)
-[**ticket-intent-classifier-lab**](https://github.com/Finn7X/ticket-intent-classifier-lab) — Intent classification experiments
+### 🍅 [tomato-schedule](https://github.com/Finn7X/tomato-schedule)
+Pomodoro timer iOS app in Swift.
 
 </td>
 </tr>
@@ -106,16 +63,6 @@ Bilingual tech blog — Chinese & English, independently authored. Built with Ne
 <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Finn7X&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
-
-<br>
-
-## 2026 Roadmap
-
-- [ ] Open-source reusable Agent framework components
-- [ ] Launch a personal AI-powered product
-- [ ] Write deep-dive articles on Agent engineering patterns
-- [ ] Ship the tomato-schedule iOS app 🍅
-- [ ] Explore multi-agent collaboration architectures
 
 <br>
 
